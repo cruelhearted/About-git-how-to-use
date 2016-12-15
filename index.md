@@ -1,4 +1,4 @@
-# What should U do about push your files to the github?
+# What should U do about pushing your files to the github?
 ## Maybe it's so easy that u can't image.
  - STEPS
     1. 要使用github，必须要创建一个github账号，在浏览器地址栏里输入www.github.com  自行注册就好了.
